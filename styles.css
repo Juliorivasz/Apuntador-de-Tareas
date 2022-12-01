@@ -132,11 +132,13 @@ form {
 
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1080px) {
   .mainCard {
     width: 80vw;
   }
-  .form {
+  
+  form {
     align-items: normal;
   }
+
 }
